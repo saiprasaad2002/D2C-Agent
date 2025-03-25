@@ -1,4 +1,4 @@
-# CrewAI-PlantUML-and-Code-Agent
+# D2C-Agent
 
 # CrewAI-Powered PlantUML and Code Generation
 
